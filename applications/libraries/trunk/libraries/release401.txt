@@ -1,0 +1,19 @@
+release401.txt
+==============
+
+Release notes for TC4 standard libraries, version 4.00:
+ cADC
+ cButton
+ cLCD
+ cmndproc
+ mcEEPROM
+ PWM16
+ thermocouple
+ PID_v1
+
+
+cADC library
+----------------
+Bug fix in thermocouple calibration. Added missing cal_offset parameter in readuV()
+
+9-Jan-2025
